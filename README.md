@@ -11,6 +11,7 @@
 ## 2 Github [工作流](https://guides.github.com/introduction/flow/)
 
 * Github没有Merge的指令
+
 * 分支合并采用Pull Request的方式进行
 
 ## 3 Github 应用场景
